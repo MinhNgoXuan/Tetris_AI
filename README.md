@@ -2,8 +2,6 @@
 
 ## Tetris Game
 
-We develop an AI for the Tetris Game. We fork the python Tetris from here: https://gist.github.com/silvasur/565419/7e044a90eb97eb67d600b2fb776000ba36f6fcc9. Our AI is inspired by this one: http://leeyiyuan.github.io/tetrisai/.
-
 We develop our own AI and plug it into the python Tetris.
 
 ## Genetic Algorithm
